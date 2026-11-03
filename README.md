@@ -1,39 +1,67 @@
-# 👋 Hola, soy Fernando Rodolfo Ortez González
+# Fernando Rodolfo Ortez González
 
-Estudiante de **Economía Empresarial** e **Ingeniería de Sistemas**.
-Me muevo entre los datos, la economía y el desarrollo de sistemas.
+**Estudiante de Economía Empresarial e Ingeniería de Sistemas**
+Econometría y análisis estadístico · Análisis y diseño de sistemas · Desarrollo en Java
 
-## 📊 Lo que hago
+---
 
-- **Estadística aplicada a la economía**: análisis de datos económicos y modelado.
-- **Econometría en EViews**: con curso de microeconometría y macroeconometría.
-- **Diseño de sistemas**: análisis y diseño de soluciones a medida.
-- **Diseño web**: construcción de sitios y páginas.
-- **Desarrollo en Java**.
+## Perfil profesional
 
-## 🛠️ Herramientas
+Combino formación en economía e ingeniería de sistemas. Trabajo con datos
+económicos mediante técnicas estadísticas y econométricas, y diseño sistemas de
+información que resuelven problemas operativos reales. Me interesa el cruce
+entre ambas áreas: construir herramientas que apoyen el análisis y la toma de
+decisiones.
 
-![EViews](https://img.shields.io/badge/EViews-Econometría-1f6feb?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Diseño de sistemas](https://img.shields.io/badge/Diseño_de_sistemas-6e40c9?style=for-the-badge)
-![Diseño web](https://img.shields.io/badge/Diseño_web-2ea043?style=for-the-badge)
+## Áreas de especialización
 
-## 🚀 Proyectos destacados
+| Área | Detalle |
+|---|---|
+| Econometría | Modelación en EViews. Cursos de microeconometría y macroeconometría |
+| Estadística aplicada | Análisis estadístico de datos económicos en SPSS Statistics |
+| Análisis y diseño de sistemas | Levantamiento de requerimientos, modelado de procesos y diseño de soluciones |
+| Desarrollo | Java |
+| Diseño web | Diseño y construcción de sitios web |
+
+## Herramientas
+
+**Análisis estadístico y econométrico:** EViews · SPSS Statistics
+**Desarrollo:** Java
+**Diseño de sistemas y web:** Análisis y diseño de sistemas · Diseño web
+
+## Proyectos destacados
 
 ### Warrios System
-Sistema de centralización aduanera para una empresa aduanera. Reúne en una sola
-plataforma la gestión de clientes, expedientes y consultas, con enfoque en
-ordenar y centralizar la información de la operación.
+Sistema de centralización aduanera para una empresa del sector. Integra en una
+sola plataforma la gestión de clientes, expedientes y consultas, con el
+objetivo de ordenar y centralizar la información de la operación.
 
-- **Tecnología:** Java
-- **Área:** Análisis y diseño de sistemas
+- **Stack:** Java
+- **Enfoque:** Análisis y diseño de sistemas
 
-## 🎯 Intereses
+### Econometría: determinantes de las importaciones
+Análisis econométrico de las importaciones en EViews, en dos etapas.
 
-Econometría · Análisis de datos · Sistemas de información · Desarrollo web
+**1. Regresión lineal simple: importaciones y PIB**
+Relación entre el nivel de actividad económica y las importaciones.
 
-## 📫 Contacto
+`M = β₀ + β₁·PIB + u`
 
-- 📧 Universitario: frortez@uamv.edu.ni
-- 📧 Personal: rodortez08@gmail.com
+**2. Regresión lineal múltiple: importaciones, inversión privada y PIB**
+Se amplía el modelo incorporando la inversión privada como segunda variable explicativa.
+
+`M = β₀ + β₁·PIB + β₂·IP + u`
+
+- **Herramienta:** EViews
+- **Enfoque:** Estimación, interpretación de coeficientes y evaluación del modelo
+
+## Formación
+
+- Economía Empresarial (en curso)
+- Ingeniería de Sistemas (en curso)
+
+## Contacto
+
+- Correo institucional: frortez@uamv.edu.ni
+- Correo personal: rodortez08@gmail.com
 - GitHub: [@frortez-ux](https://github.com/frortez-ux)
